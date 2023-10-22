@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(209, 225, 240);
+    text-align: center;
+    line-height: .7;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+}
+
+p { 
+    margin-bottom: 3;
+    
+}
+
+
+.scan {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 9px;
+    color: rgb(155, 153, 153);
+}
+
+.improve {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 12px; 
+    color: rgb(52, 52, 73);
+    line-height: 1.2;
+    padding-bottom: 5px;
+
+}
+
+.rectangle {
+    height: 250px;
+    width: 150px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.attribution {
+    margin-top: 100px;
+}
